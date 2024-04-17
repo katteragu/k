@@ -1,11 +1,9 @@
-<!DOCTYPE html>
+
+ <!DOCTYPE html>
 <html lang="en">
     <head> 
-        <div> <centre>
-            <p style="font-size: large;"></p>
-        
         <meta charset="utf-8">
-        <meta name="viewport"content="width=medium,initial-scale=0.5">
+        <meta name="viewport"content="width=small,initial-scale=0.5">
      </head>
         <title>Raghu prastice sessions </title>
     
@@ -27,9 +25,20 @@
 
         </p>
         <a href="http://www.google.com"target="_blank"</a>
-            <img src="C:\Users\ADMIN\Desktop\timm.PNG">
+        <img src=" https://th.bing.com/th/id/OIP.VJBNNXzQVfrcyIs6ypeODgHaFj?rs=1&pid=ImgDetMain"
+            width="200px" height="300">
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
 
 
 
